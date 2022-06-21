@@ -1,4 +1,4 @@
-module ydiff
+module github.com/july2993/ydiff
 
 go 1.18
 
